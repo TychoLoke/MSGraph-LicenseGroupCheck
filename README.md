@@ -4,7 +4,7 @@ This PowerShell script checks for users with a specific license and determines i
 
 ## Prerequisites
 
-- **Microsoft Graph PowerShell SDK**: Ensure you have the Microsoft Graph PowerShell SDK installed.
+- **Microsoft Graph PowerShell SDK**: Ensure you have the Microsoft Graph PowerShell SDK installed. [Learn about Microsoft Graph PowerShell Installation](https://learn.microsoft.com/en-us/powershell/microsoftgraph/installation?view=graph
 - **Permissions**: You need the appropriate permissions to retrieve user details and group memberships from your Microsoft 365/Azure tenant.
 
 ## Usage
